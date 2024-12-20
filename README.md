@@ -172,7 +172,7 @@ Ensure you have the following installed:
 
 ## Live Demo
 
-Check out the live application: [Live Demo Link](https://drive.google.com/drive/my-drive)
+Check out therecoring of the  live application: [Demo recording Link](https://drive.google.com/drive/my-drive)
 
 ---
 
