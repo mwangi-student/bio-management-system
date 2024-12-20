@@ -1,8 +1,4 @@
-Here’s an enhanced and structured README template for your Bio Management System. It includes details on installation, setup, future plans, and placeholders for live link and GitHub repo:
-
----
-
-# Bio Management System
+# Bio Management System - author [ Mwangi Brian]
 
 A web application designed to help instructors manage data related to themselves, students, and courses efficiently. The system is built using **FastAPI** for the backend, **Alembic** and **SQLAlchemy** for database management, **Vite React** for the frontend, and **Tailwind CSS** for styling.
 
