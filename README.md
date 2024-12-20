@@ -51,7 +51,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone `https://github.com/mwangi-student/bio-management-system`
    cd bio-management-system
    ```
 
